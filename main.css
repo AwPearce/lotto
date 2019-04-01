@@ -78,5 +78,14 @@ footer {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-
+}
+#lottoEntry{
+	display: block;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#userLotto{
+	width: 40px;
+	text-align: center;
 }
